@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- <link rel="shortcut icon" type="image/png" href="/imgs/favicon.png" /> -->
-    <title>Assessment - @yield('title')</title>
+    <title>LMS - @yield('title')</title>
 
     <!-- inject:css -->
     <link rel="stylesheet" href="{{asset('admins/bower_components/bootstrap/dist/css/bootstrap.min.css')}}">
